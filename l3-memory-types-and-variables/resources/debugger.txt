@@ -1,0 +1,7 @@
+https://youtu.be/Spj2jK1-uIE
+https://youtu.be/Lopa5WXR1uQ
+
+code-signing for GDB: https://opensource.apple.com/source/lldb/lldb-69/docs/code-signing.txt
+
+lldb: https://www.youtube.com/watch?v=3BkEOvI36Ds
+https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf
